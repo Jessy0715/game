@@ -14,7 +14,7 @@
 
 body {
 
-    background-image: linear-gradient(rgba(70, 25, 25, 0.3), rgba(70, 25, 25, 0.3)), url(images/BG2.jpg);
+    background-image: linear-gradient(rgba(70, 25, 25, 0.3), rgba(70, 25, 25, 0.3)), url(../images/BG2.jpg);
     background-size: cover;
     font-family: Lato;
     font-weight: 300;
